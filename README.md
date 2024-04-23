@@ -1,20 +1,3 @@
-### Import library
-
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-from collections import Counter
-```
-
-### Read data from CSV file
-
-
-```python
-data = pd.read_csv('caschool.csv')
-```
-
 ### Dataset Explaination
 A data frame containing 420 observations on 14 variables.
 
